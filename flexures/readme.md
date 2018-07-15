@@ -8,3 +8,4 @@ flexlink_v3_layer_A.stl -- STL file for layer A only
 
 flexlink_v3_layer_B.stl -- STL file for layer B only
  
+SB_flexure_Aug_2017_All_Layers_Plus_Rivets.png -- screenshot of OpenSCAD model
