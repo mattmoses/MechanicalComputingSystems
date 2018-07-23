@@ -9,10 +9,10 @@ Ralph C. Merkle, Robert A. Freitas Jr., Tad Hogg, Thomas E. Moore, Matthew Moses
 [**Flexure-based Designs**](/flexures)
 ![alt text](flexures/SB_flexure_Aug_2017_All_Layers_Plus_Rivets.png)
 
-**3D Printable Models**     
-[3D Printable Models here](/CAD_models)
+[**3D Printable Models**](/CAD_models)
 
 
-**CAD Models of a 4-cell Shift Register**
+[**4-cell Shift Register**](/shift_register)
 
-**Atomistic Models**
+
+[**Atomistic Models**](/atomistic_models)
