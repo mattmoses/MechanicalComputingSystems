@@ -7,7 +7,7 @@ This repo contains solid models of mechanical computing elements described in th
 Ralph C. Merkle, Robert A. Freitas Jr., Tad Hogg, Thomas E. Moore, Matthew Moses, James Ryley (2018)
 
 [**Flexure-based Designs**](/flexures)
-![alt text](flexures/SB_flexure_Aug_2017_All_Layers_Plus_Rivets.png)
+![alt text](flexures/SB_flexure_All_Layers_Plus_Rivets.png)
 
 [**3D Printable Models**](/CAD_models)
 ![alt text](CAD_models/link-logic-test-assembly.PNG)
