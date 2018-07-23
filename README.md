@@ -10,7 +10,7 @@ Ralph C. Merkle, Robert A. Freitas Jr., Tad Hogg, Thomas E. Moore, Matthew Moses
 ![alt text](flexures/SB_flexure_Aug_2017_All_Layers_Plus_Rivets.png)
 
 [**3D Printable Models**](/CAD_models)
-
+![alt text](CAD_models/link-logic-test-assembly.PNG)
 
 [**4-cell Shift Register**](/shift_register)
 ![alt text](shift_register/4phase_4cell_shift_register.PNG)
