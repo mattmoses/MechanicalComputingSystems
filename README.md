@@ -13,6 +13,6 @@ Ralph C. Merkle, Robert A. Freitas Jr., Tad Hogg, Thomas E. Moore, Matthew Moses
 
 
 [**4-cell Shift Register**](/shift_register)
-
+![alt text](shift_register/4phase_4cell_shift_register.PNG)
 
 [**Atomistic Models**](/atomistic_models)
