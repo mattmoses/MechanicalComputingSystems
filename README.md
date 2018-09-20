@@ -10,14 +10,18 @@ Paper No: JMR-17-1426; doi: 10.1115/1.4041209 <br>
 Ralph C. Merkle, Robert A. Freitas Jr., Tad Hogg, Thomas E. Moore, Matthew Moses, and James Ryley <br>
 
 
+
 [**Flexure-based Designs**](/flexures)
 ![alt text](flexures/SB_flexure_All_Layers_Plus_Rivets.png)
+
 
 [**3D Printable Models**](/CAD_models)
 ![alt text](CAD_models/link-logic-test-assembly.PNG)
 
+
 [**4-cell Shift Register**](/shift_register)
 ![alt text](shift_register/4phase_4cell_shift_register.PNG)
+
 
 [**Atomistic Models**](/atomistic_models)
 ![alt text](atomistic_models/atomistic_lock.jpg)
