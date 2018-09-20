@@ -4,13 +4,10 @@ This repo contains solid models of mechanical computing elements described in th
 
 [Mechanical Computing Systems Using Only Links and Rotary Joints](http://mechanismsrobotics.asmedigitalcollection.asme.org/article.aspx?articleid=2697887)    
 
-*Journal of Mechanisms and Robotics*
-
-10(6), 061006 (Sep 17, 2018)
-
-Paper No: JMR-17-1426; doi: 10.1115/1.4041209
-
-Ralph C. Merkle, Robert A. Freitas Jr., Tad Hogg, Thomas E. Moore, Matthew Moses, and James Ryley
+*Journal of Mechanisms and Robotics* <br>
+10(6), 061006 (Sep 17, 2018) <br>
+Paper No: JMR-17-1426; doi: 10.1115/1.4041209 <br>
+Ralph C. Merkle, Robert A. Freitas Jr., Tad Hogg, Thomas E. Moore, Matthew Moses, and James Ryley <br>
 
 
 [**Flexure-based Designs**](/flexures)
