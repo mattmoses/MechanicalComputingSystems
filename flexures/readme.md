@@ -17,3 +17,5 @@ flexlink_v4.stl -- STL file render from flexlink_v4.scad
 flexlink_v5.scad -- OpenSCAD source for flexure-based concept, modified for printability
 
 flexlink_v5.stl -- STL file render from flexlink_v5.scad
+
+readme.md -- this file
